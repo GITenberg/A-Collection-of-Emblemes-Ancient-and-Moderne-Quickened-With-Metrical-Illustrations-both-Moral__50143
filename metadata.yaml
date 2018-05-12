@@ -1,4 +1,8 @@
 _repo: A-Collection-of-Emblemes-Ancient-and-Moderne-Quickened-With-Metrical-Illustrations-both-Moral__50143
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50143-h/images/i_x_front_cover.jpg
 creator:
   author:
     agent_name: Wither, George
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25027
     wikipedia: http://en.wikipedia.org/wiki/George_Wither
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50143#A-Collection-of-Emblemes-Ancient-and-Moderne-Quickened-With-Metrical-Illustrations-both-Moral_
 gutenberg_issued: '2015-10-06'
 gutenberg_type: Text
 identifiers:
